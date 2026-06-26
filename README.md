@@ -273,7 +273,7 @@ Associate Product Manager | AI Products | Data Engineering | Workflow Automation
 ### Connect with Me
 
 * LinkedIn: https://linkedin.com/in/yashchinawale
-* GitHub: https://github.com/YOUR_GITHUB_USERNAME
+* GitHub: https://github.com/YashC1711
 
 ---
 
