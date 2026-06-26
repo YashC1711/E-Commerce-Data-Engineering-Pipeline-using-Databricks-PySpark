@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Commerce Data Engineering Pipeline using Databricks & PySpark
 
 An end-to-end Data Engineering project that demonstrates how raw e-commerce data can be transformed into analytics-ready datasets using **Apache Spark (PySpark)**, **Databricks**, and the **Medallion Architecture (Bronze → Silver → Gold)**.
@@ -278,3 +279,6 @@ Associate Product Manager | AI Products | Data Engineering | Workflow Automation
 ---
 
 ## ⭐ If you found this project useful, consider giving it a Star!
+=======
+# E-Commerce-Data-Engineering-Pipeline-using-Databricks-PySpark
+>>>>>>> 2cca20e7edf3499b2bd4a5e35f5c1c43d0b14314
